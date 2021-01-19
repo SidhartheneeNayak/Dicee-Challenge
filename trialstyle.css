@@ -1,0 +1,9 @@
+
+
+.dice {
+    display: inline-block;
+    text-align: center;
+}
+.dice img{
+    width: 60%;
+}
